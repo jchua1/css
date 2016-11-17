@@ -1,0 +1,36 @@
+body {
+    background-color: #A63D40;
+    font-size: 1.5em;
+}
+
+h1 {
+    background-color: #E9B872;
+}
+
+h2 {
+    background-color: #E9B872;
+}
+
+h3 {
+    background-color: #E9B872;
+}
+
+ul {
+    background-color: #90A959;
+}
+
+ul li {
+    cursor: crosshair;
+}
+
+p {
+    outline-style: groove;
+    outline-width: 10px;
+    text-decoration: line-through;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #6494AA;
+    word-spacing: 30px;
+}
