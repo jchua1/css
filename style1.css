@@ -32,3 +32,32 @@ ul li {
     background-color: #6B7D7D;
     margin: 10px;
 }
+
+.extreme {
+    color: #379392;
+    text-transform: lowercase;
+}
+
+#head1 {
+    font-style: oblique;
+}
+
+.navzone {
+    font-family: "Times New Roman", times, serif;
+}
+
+#tehlulz {
+    list-style: disc;
+    font-size: 2em;
+}
+
+.content {
+    color: #4F86C6;
+    text-transform: uppercase;
+    background-color: #8D99AE;
+}
+
+.prose {
+    color: #17301C;
+    font-size: 3em;
+}

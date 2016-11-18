@@ -34,3 +34,41 @@ p {
     background-color: #6494AA;
     word-spacing: 30px;
 }
+
+.extreme {
+    cursor: wait;
+    text-align: center;
+}
+
+#head1 {
+    font-size: 5px;
+    font-style: italic;
+}
+
+.navzone {
+    transition: 1s;
+}
+
+.navzone:hover {
+    text-shadow: 12px 12px black;
+}
+
+#tehlulz {
+    background-color: orange;
+    text-align: right;
+    font-size: 10px;
+}
+
+.content {
+    transition: 2s;
+}
+
+.content:hover {
+    color: green;
+    transform: rotate(-5deg);
+}
+
+.prose {
+    font-weight: 1000;
+    direction: rtl;
+}
