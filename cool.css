@@ -1,0 +1,31 @@
+body {
+    background-color: #8EB8E5;
+}
+
+.h {
+    text-align: center;
+    transition: 2s;
+}
+
+.h:hover {
+    transform: scale(1.5);
+}
+
+p {
+    transition: 1s;
+}
+
+p:hover {
+    color: green;
+}
+
+li {
+    opacity: 0;
+    transition: 2s;
+}
+
+li:hover {
+    transform: translateX(30px);
+    color: red;
+    opacity: 100;
+}
